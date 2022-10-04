@@ -1,0 +1,38 @@
+{
+  "ChooseUs": {
+    "description": "Auto imported from components/ChooseUs.vue"
+  },
+  "EcosystemCollector": {
+    "description": "Auto imported from components/EcosystemCollector.vue"
+  },
+  "FooterComp": {
+    "description": "Auto imported from components/FooterComp.vue"
+  },
+  "Governance": {
+    "description": "Auto imported from components/Governance.vue"
+  },
+  "HeaderComp": {
+    "description": "Auto imported from components/HeaderComp.vue"
+  },
+  "HowWorks": {
+    "description": "Auto imported from components/HowWorks.vue"
+  },
+  "ListedOn": {
+    "description": "Auto imported from components/ListedOn.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "Partners": {
+    "description": "Auto imported from components/Partners.vue"
+  },
+  "PhanesEcosystem": {
+    "description": "Auto imported from components/PhanesEcosystem.vue"
+  },
+  "PhanesToken": {
+    "description": "Auto imported from components/PhanesToken.vue"
+  },
+  "YourAssets": {
+    "description": "Auto imported from components/YourAssets.vue"
+  }
+}
