@@ -4,10 +4,12 @@
           <div class="col1">
               <img src="@/assets/logo.png" alt="" class="logo">
               <div class="social-icons">
-                <a href="https://twitter.com/phanes_network" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'twitter-square' }"/></a>
-                <a href="" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'discord' }"/></a>
-                <a href="https://t.me/phanesnetwork" target="_blank"><fonts-icon :icon="{ prefix: 'fab', iconName: 'telegram' }"/></a>
-                </div>
+                  <a href="https://twitter.com/phanes_network" target="_blank"><img src="~/assets/Twitter.png" alt=""></a>
+                  <a href=""><img src="~/assets/discord.png" alt=""></a>
+                  <a href="https://t.me/phanesnetwork" target="_blank"><"><img src="~/assets/telegram.png" alt=""></a> 
+                  <a href="https://t.me/phanesnetwork_anns"target="_blank"><img src="~/assets/announcement.png" alt=""></a> 
+              </div>
+
           </div>
          <div class="col">
             <h3 class="title">Important Links</h3>
