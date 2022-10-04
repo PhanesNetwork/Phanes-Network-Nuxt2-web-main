@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'phanes-network-nuxt2',
+    title: 'phanes-interface',
     htmlAttrs: {
       lang: 'en'
     },
@@ -24,7 +24,8 @@ export default {
   plugins: [
 
   ],
-
+  target: 'static',
+  ssr: 'false',
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 

@@ -8,7 +8,7 @@
       <ChooseUs/>
       <PhanesToken />
       <YourAssets/>
-      <ListedOn/>
+      <!-- <ListedOn/> -->
       <EcosystemCollector/>
       <Partners/>
       <FooterComp/>
@@ -24,12 +24,12 @@
   import ChooseUs from '@/components/ChooseUs.vue';
   import PhanesToken from '@/components/PhanesToken.vue';
   import YourAssets from '@/components/YourAssets.vue';
-  import ListedOn from '@/components/ListedOn.vue';
+  // import ListedOn from '@/components/ListedOn.vue';
   import EcosystemCollector from '@/components/EcosystemCollector.vue';
   import Partners from '@/components/Partners.vue';
   import FooterComp from '../components/FooterComp.vue';
   export default {
-      components: { HeaderComp, Navbar, PhanesEcosystem, Governance, HowWorks, ChooseUs, PhanesToken, YourAssets, ListedOn, EcosystemCollector, Partners, FooterComp }
+      components: { HeaderComp, Navbar, PhanesEcosystem, Governance, HowWorks, ChooseUs, PhanesToken, YourAssets, EcosystemCollector, Partners, FooterComp }
   }
   </script>
   <style lang="scss">
