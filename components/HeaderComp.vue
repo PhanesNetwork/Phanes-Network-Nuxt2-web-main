@@ -3,8 +3,8 @@
         <img src="@/assets/hero.png" alt="" class="hero">
         <div class="row">
             <div class="content">
-                <h1 class="heading">A Multi-Chain Defi Platform For Meme Community.</h1>
-                <p class="snippet">Phanes network is the first crypto Indices offering multichain Defi services on Dogechain network.</p>
+                <h1 class="heading">A Multi-Chain Defi Platform For crypto Community.</h1>
+                <p class="snippet">Phanes network is the first crypto Indices offering multichain Defi services on zksync network.</p>
             </div>
         </div>
         <div class="bottom-content">
