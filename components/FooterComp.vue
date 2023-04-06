@@ -6,8 +6,8 @@
               <div class="social-icons">
                   <a href="https://twitter.com/phanes_network" target="_blank"><img src="~/assets/Twitter.png" alt=""></a>
                   <a href=""><img src="~/assets/discord.png" alt=""></a>
-                  <a href="https://t.me/phanesnetwork" target="_blank"><img src="~/assets/telegram.png" alt=""></a> 
-                  <a href="https://t.me/phanesnetwork_anns"target="_blank"><img src="~/assets/announcement.png" alt=""></a> 
+                  <a href="https://t.me/phanes_network" target="_blank"><img src="~/assets/telegram.png" alt=""></a> 
+                  <a href="https://t.me/phanes_anns"target="_blank"><img src="~/assets/announcement.png" alt=""></a> 
               </div>
 
           </div>
@@ -17,7 +17,7 @@
                 <li class="item"><a href="https://docs.phanes.network/phanes-tokenomics/phanes-token" target="_blank">Governance</a></li>
                 <li class="item"><a href="https://docs.phanes.network/products/phanes-index-portfolio" target="_blank">Indices</a></li>
                 <li class="item"><a href="https://docs.phanes.network/" target="_blank">Docs</a></li>
-                <li class="item"><a href="https://docs.phanes.network/official-links">FAQ</a></li>
+                <li class="item"><a href="https://docs.phanes.network/>FAQ</a></li>
             </ul>
         </div>
           <div class="col">
