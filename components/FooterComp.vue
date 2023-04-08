@@ -17,7 +17,7 @@
                 <li class="item"><a href="https://docs.phanes.network/phanes-tokenomics/phanes-token" target="_blank">Governance</a></li>
                 <li class="item"><a href="https://docs.phanes.network/products/phanes-index-portfolio" target="_blank">Indices</a></li>
                 <li class="item"><a href="https://docs.phanes.network/" target="_blank">Docs</a></li>
-                <li class="item"><a href="https://docs.phanes.network/>FAQ</a></li>
+                <li class="item"><a href="https://docs.phanes.network/" target="_blank">FAQ</a></li>
             </ul>
         </div>
           <div class="col">
