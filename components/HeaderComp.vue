@@ -4,7 +4,7 @@
         <div class="row">
             <div class="content">
                 <h1 class="heading">A Multi-Chain Defi Platform For Crypto Community.</h1>
-                <p class="snippet">Phanes network is the first crypto Indices offering multichain Defi services on zksync network.</p>
+                <p class="snippet">Phanes network is the first crypto Indices offering multichain Defi services launching on Pulsechain & zksync network.</p>
             </div>
         </div>
         <div class="bottom-content">
