@@ -15,7 +15,7 @@
       data(){
           return{
               cards:[
-                  {img:'choose1.png',title:'Invest in Crypto Index with ease.'},
+                  {img:'choose1.png',title:'Diversify with ease.'},
                   {img:'choose2.png',title:'Provide staking services for your project easily.'},
                   {img:'choose3.png',title:'Launch your project in a few easy steps.'},
                   {img:'choose4.png',title:'Manage liquidity easily.'},
