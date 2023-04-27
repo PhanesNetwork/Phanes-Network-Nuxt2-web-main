@@ -170,11 +170,11 @@ export default {
         .snippet{
             width: 587px;
             font-weight: 400;
-            font-size: 14px;
+            font-size: 18px;
             line-height: 34px;
             color: #C8C8C8;
             @media only screen and (max-width:980px){
-                font-size: 12px;
+                font-size: 15px;
                 line-height: 26px;
             }
             @media only screen and (max-width:780px){
