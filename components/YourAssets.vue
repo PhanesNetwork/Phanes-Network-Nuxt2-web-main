@@ -1,7 +1,7 @@
 <template>
     <div class="row">
       <div class="content">
-          <h3 class="heading">Your assets, secured</h3>
+          <h3 class="heading">Your assets secured</h3>
           <p class="snippet">Audited by the world’s leading security firms, security of the Phanes Protocol is the highest priority.</p>
       </div>
       <div class="cards">
