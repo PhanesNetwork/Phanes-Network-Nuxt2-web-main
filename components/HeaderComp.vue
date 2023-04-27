@@ -4,8 +4,8 @@
         <div class="row">
             <div class="content">
                 <h1 class="heading">A Defi Platform For Crypto Community</h1>
-                <h4 class="snippet">Phanes Network is an index token on Pulsechain and an all-in-one DeFi hub, blending five dynamic services for effortless project creation and management. 
-<br> Unleash your vision from inception all the way to locking liquidity after the launch!</h4>
+                <p class="snippet">Phanes Network is an index token on Pulsechain and an all-in-one DeFi hub, blending five dynamic services for effortless project creation and management. 
+<br> Unleash your vision from inception all the way to locking liquidity after the launch!</p>
             </div>
         </div>
         <div class="bottom-content">
@@ -170,11 +170,11 @@ export default {
         .snippet{
             width: 587px;
             font-weight: 400;
-            font-size: 22px;
+            font-size: 14px;
             line-height: 34px;
             color: #C8C8C8;
             @media only screen and (max-width:980px){
-                font-size: 16px;
+                font-size: 12px;
                 line-height: 26px;
             }
             @media only screen and (max-width:780px){
