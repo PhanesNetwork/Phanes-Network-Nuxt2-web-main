@@ -1,6 +1,7 @@
 
 <template>
-    <div id="faqs" class="row">
+<!--   
+ <div id="faqs" class="row">
       <h2 class="heading">How it works</h2>
       <div class="procedure">
           <div class="step step1">
@@ -8,6 +9,7 @@
               <h3 class="title">1. Submit a project Request via our mail</h3>
               <p class="snippet">Interestted project submit listing request to our support mail address,This request will be publish for a vote on our governance platform. All project will be listed upon passing the vote.</p>
           </div>
+
           <div class="step step2">
               <img src="@/assets/leftLine.png" alt="" class="leftLine desktop-only">
               <div>
@@ -26,6 +28,8 @@
           </div>
       </div>
     </div>
+
+-->
   </template>
   
   <script>
