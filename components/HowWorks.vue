@@ -1,3 +1,4 @@
+<!--
 <template>
     <div id="faqs" class="row">
       <h2 class="heading">How it works</h2>
@@ -150,3 +151,4 @@
       }
   }
   </style>
+-->
