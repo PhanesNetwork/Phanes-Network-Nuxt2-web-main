@@ -4,9 +4,8 @@
         <div class="row">
             <div class="content">
                 <h1 class="heading">A Defi Platform For Crypto Community</h1>
-                <p class="snippet">
-<h3>Phanes Network is an index token on Pulsechain and an all-in-one DeFi hub, blending five dynamic services for effortless project creation and management. 
-<br> Unleash your vision from inception all the way to locking liquidity after the launch!</h3></p>
+                <h3 class="snippet">Phanes Network is an index token on Pulsechain and an all-in-one DeFi hub, blending five dynamic services for effortless project creation and management. 
+<br> Unleash your vision from inception all the way to locking liquidity after the launch!</h3>
             </div>
         </div>
         <div class="bottom-content">
