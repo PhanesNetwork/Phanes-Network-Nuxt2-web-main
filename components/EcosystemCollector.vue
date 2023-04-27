@@ -3,7 +3,7 @@
       <div class="left-content">
           <h3 class="title">Ecosystem Collectors</h3>
           <p class="collectors">$ {{totalCollection}}</p>
-          <p class="snippet">The Phane treasury focuses on ecosystem growth and earns fees from transactions, staking, and farming. All earned fees are distributed as follows.</p>
+          <p class="snippet">The Phanes treasury focuses on ecosystem growth and earns fees from transactions, staking, and farming. All earned fees are distributed as follows.</p>
           <table cellspacing="15">
             <tbody>
                 <tr><td class="sub-title">Liquidity</td><td class="value">{{liquidity}}%</td></tr>
@@ -21,7 +21,7 @@
           </div>
           <table cellspacing="15">
             <tbody>
-                <tr><td class="sub-title">Phane</td> <td class="value">{{phane}}%</td></tr>
+                <tr><td class="sub-title">Phanes</td> <td class="value">{{phane}}%</td></tr>
                 <tr><td class="sub-title">USDC</td> <td class="value">{{usdc}}%</td></tr>
             </tbody>
           </table>
