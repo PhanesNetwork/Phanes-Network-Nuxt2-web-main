@@ -5,12 +5,14 @@
       <p class="snippet">Phanes is a fully decentralized, community governed protocol with 0 token holders.</p>
       <button class="governance-btn"><a href="https://guild.xyz/phanes-network" target="_blank">Governance</a></button>
     </div>
-    <div class="faas-saas">
+<!--    
+<div class="faas-saas">
       <img src="@/assets/faasbg.png" class="bg" alt="">
       <h2 class="heading">Interested in deploying a FAAS/SAAS </h2>
       <p class="snippet">Submit a proposal to deploy a new project on the Phanes staking platform. </p>
     </div>
   </div>
+-->
 </template>
 
 <script>
