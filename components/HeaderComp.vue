@@ -3,7 +3,7 @@
         <img src="@/assets/hero.png" alt="" class="hero">
         <div class="row">
             <div class="content">
-                <h1 class="heading">A Multi-Chain Defi Platform For Crypto Community.</h1>
+                <h1 class="heading">A Defi Platform For Crypto Community.</h1>
                 <p class="snippet">Phanes Network is an index token on Pulsechain and an all-in-one DeFi hub, blending five dynamic services for effortless project creation and management. Unleash your vision from inception all the way to locking liquidity after the launch!</p>
             </div>
         </div>
