@@ -12,7 +12,7 @@
             <div class="content">
                 <img src="@/assets/tokenIcon.png" alt="" class="icon">
                 <h3 class="title">Phanes Index Tokens</h3>
-                <p class="snippet">Phanes Index token is our indices token, a basket of multiple blockchain tokens, creating a diversified portfolio for its holders.</p>
+                <p class="snippet">Phanes Index token is our indices token, a basket of multiple tokens on the Pulsechain Network, creating a diversified portfolio for its holders.</p>
                 <button class="learnMore-btn"><a href="https://docs.phanes.network/phaes-index-portfolio-token-metrics" target="_blank">Learn more</a></button>
             </div>
         </div>
