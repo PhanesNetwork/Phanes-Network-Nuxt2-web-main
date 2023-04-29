@@ -20,7 +20,7 @@
       data(){
           return{
               cards:[
-                { img:'bag.png', title:'Phanes Index Portfolio', snippet:'Phanes Index Portfolio (PIP).  designed to track price movements of top assets, maximize returns and provide safe investing in the ecosystem.',showAll:false},
+                { img:'bag.png', title:'Phanes Index Portfolio', snippet:'Phanes Index Portfolio (PIP).  designed to track performance of pulsechain ecosystem assets, creating a strategic portfolio & investing management in the ecosystem.',showAll:false},
                 { img:'cloud_db.png', title:'FAAS & SAAS', snippet:'Using our Farming-As-A-Service feature, users can use our well designed UI to provide staking and farming options in a few easy steps.', showAll:false},
                 { img: 'locker.png', title:'Liquidity Lockers', snippet:"Our liquidity lockers enable developers or liquidity providers to store LP tokens in a smart contract for their own desired period thereby revoking the locker's permission from removing the LP tokens from a start date to the due date. This helps prevent rug pulls brought about by withdrawing liquidity and helps projects gain trust.",showAll:false},
                 { img:'vesting.png', title:'Token Vesting', snippet:'Similar to Liquidity locking, our token vesting enables projects to lock tokens and set various unlock dates for the tokens.',showAll:false},
