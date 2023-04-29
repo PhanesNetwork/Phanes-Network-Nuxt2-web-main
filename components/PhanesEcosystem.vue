@@ -52,8 +52,10 @@
               font-size: 48px;
               line-height: 59px;
               margin-bottom: 50px;
+              text-align: center;
               @media  only screen and (min-width:1500px) {
-                  margin-left: 554px;                
+                  margin-left: 24px; 
+                  text-align: center;
               }
               @media  only screen and (max-width:780px) {
                   text-align: center;             
