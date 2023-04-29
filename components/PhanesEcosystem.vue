@@ -53,7 +53,7 @@
               line-height: 59px;
               margin-bottom: 50px;
               @media  only screen and (min-width:1500px) {
-                  margin-left: 54px;                
+                  margin-left: 154px;                
               }
               @media  only screen and (max-width:780px) {
                   text-align: center;             
