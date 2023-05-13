@@ -5,7 +5,7 @@
                 <img src="@/assets/tokenIcon.png" alt="" class="icon">
                 <h3 class="title">Phanes Token</h3>
                 <p class="snippet">Our ecosystem will be governed by PHANES token, with this token, the community makes decisions on activities in the  ecosystem.</p>
-                <button class="learnMore-btn"><a href="https://docs.phanes.network/phanes-token-metrics" target="_blank">Learn more</a></button>
+                <button class="learnMore-btn"><a href="https://app.pulsex.com/swap?outputCurrency=0x833aF3Fcbd10ce8d68aBFD357A5431605d6Ea6E7" target="_blank">Buy Token</a></button>
             </div>
         </div>
         <div class="token rightToken">
