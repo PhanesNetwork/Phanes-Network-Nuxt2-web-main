@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col">
                     <div class="value">$ {{totalTokens}}</div>
-                    <p class="title">Total value of tokens is locked</p>
+                    <p class="title"> value of tokens is locked</p>
                 </div>
                 <div class="col">
                     <div class="value">{{projects}}</div>
@@ -21,7 +21,7 @@
                 </div>
                 <div class="col">
                     <div class="value">$ {{getTotalLiquidity}}</div>
-                    <p class="title">Total value of liquidity is locked.</p>
+                    <p class="title"> value of liquidity is locked.</p>
                 </div>
             </div>
 
