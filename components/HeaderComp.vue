@@ -3,7 +3,7 @@
         <img src="@/assets/hero.png" alt="" class="hero">
         <div class="row">
             <div class="content">
-                <h1 class="heading">A Defi Platform For Crypto Community</h1>
+                <h1 class="heading">A Defi Platform For Pulsechain Community</h1>
                 <p class="snippet">Phanes Network is an index protocol on Pulsechain and an all-in-one DeFi hub,
                 blending four dynamic services for effortless project creation and management. Bridging the gap between asset investment and risk management.</p>
             </div>
