@@ -24,7 +24,7 @@
               <h3 class="title">Support</h3>
               <ul class="items">
                 <li class="item"><a href="https://contact@phanes.network" target="_blank">Contact</a></li>
-                <li class="item"><a href="#" target="_blank">Blog</a></li>
+                <li class="item"><a href="https://blog.phanes.network" target="_blank">Blog</a></li>
                 <li class="item"><a href="#" target="_blank">Technical Paper</a></li>
               </ul>
           </div>
