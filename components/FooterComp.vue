@@ -17,7 +17,7 @@
                 <li class="item"><a href="https://docs.phanes.network/phanes-tokenomics/phanes-token" target="_blank">Governance</a></li>
                 <li class="item"><a href="https://docs.phanes.network/products/phanes-index-portfolio" target="_blank">Indices</a></li>
                 <li class="item"><a href="https://docs.phanes.network/" target="_blank">Documentation</a></li>
-                /*<li class="item"><a href="https://app.pulsex.com/swap?outputCurrency=0x833aF3Fcbd10ce8d68aBFD357A5431605d6Ea6E7" target="_blank">Trade</a></li>*/
+                /*<li class="item"><a href="#" target="_blank">Trade</a></li>*/
             </ul>
         </div>
           <div class="col">
