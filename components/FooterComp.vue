@@ -1,5 +1,6 @@
 <template>
     <footer class="row footer">
+         <div class="h-line"></div>
       <div class="columns">
           <div class="col1">
               <img src="@/assets/logo.png" alt="" class="logo">
