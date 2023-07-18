@@ -48,7 +48,7 @@
           <p class="text">Copyright © 2022 Phanes Network</p>
           <div class="right-links">
               <span>All Rights Reserved </span>|
-              <a href="" target="_blank"> Terms and Conditions </a>|
+              <a href="https://docs.phanes.network/conclusion/disclaimer" target="_blank"> Terms and Conditions </a>|
               <a href="" target="_blank"> Privacy Policy</a>
           </div>
       </div>
