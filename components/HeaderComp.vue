@@ -3,8 +3,8 @@
         <img src="@/assets/hero.png" alt="" class="hero">
         <div class="row">
             <div class="content">
-                <h1 class="heading">A Defi Platform For Pulsechain Community</h1>
-                <p class="snippet">Phanes Network is an index protocol on Pulsechain and an all-in-one DeFi hub,
+                <h1 class="heading">A Defi Platform For Blockchain Community</h1>
+                <p class="snippet">Phanes Network is an automated market maker, index protocol and an all-in-one DeFi hub,
                 blending four dynamic services for effortless project creation and management. Bridging the gap between asset investment and risk management.</p>
             </div>
         </div>
@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col">
                     <div class="value">$ {{totalTokens}}</div>
-                    <p class="title"> value of tokens is locked</p>
+                    <p class="title"> Total value locked/p>
                 </div>
                 <div class="col">
                     <div class="value">{{projects}}</div>
