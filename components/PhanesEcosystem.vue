@@ -20,7 +20,7 @@
       data(){
           return{
               cards:[
-                { img:'bag.png', title:'AMM / DEX', snippet:'Utilizing Balancer technology, Phanes Exchange offers a customizable foundation of liquidity pools on opBNB.',showAll:false},
+                { img:'bag.png', title:'AMM / DEX', snippet:'Utilizing Balancer technology, Phanes Exchange offers a customizable foundation of liquidity pools.',showAll:false},
                 { img:'cloud_db.png', title:'Phanes Index Portfolio', snippet:'Phanes Index Portfolio is designed to track performance of leading ecosystem assets, creating a strategic portfolio & investing management in the ecosystem.', showAll:false},
                 { img: 'locker.png', title:'Liquidity Lockers', snippet:"Our liquidity lockers enable developers or liquidity providers to store LP tokens in a smart contract for their own desired period thereby revoking the locker's permission from removing the LP tokens from a start date to the due date. This helps prevent rug pulls brought about by withdrawing liquidity and helps projects gain trust.",showAll:false},
                 { img:'vesting.png', title:'Token Vesting', snippet:'Similar to Liquidity locking, our token vesting enables projects to lock tokens and set various unlock dates for the tokens.',showAll:false},
