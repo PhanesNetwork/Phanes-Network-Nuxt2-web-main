@@ -128,7 +128,7 @@ export default {
     }
 
 }
-       .launch-btn{
+       .launch-btn1{
         text-decoration: none;
         border: none;
         outline: none;
