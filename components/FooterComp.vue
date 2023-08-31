@@ -16,8 +16,7 @@
           <div class="col">
             <h3 class="title">Products</h3>
             <ul class="items">
-                <li class="item"><a href="https://app.phanes.network" target="_blank">Index</a></li>
-                <li class="item"><a href="https://app.phanes.network" target="_blank">Vault</a></li>
+                <li class="item"><a href="https://app.phanes.network" target="_blank">AMM / DEX</a></li>
                 <li class="item"><a href="https://app.phanes.network" target="_blank">Lockers</a></li>
                 <li class="item"><a href="https://app.phanes.network" target="_blank">Multisender</a></li>
                 <li class="item"><a href="https://app.phanes.network" target="_blank">Minter</a></li>
