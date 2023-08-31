@@ -7,7 +7,7 @@
                 <li class="item" @click="scrollTo('governance')">Governance</li>
                 <li class="item" @click="scrollTo('faqs')">FAQs</li>
             </ul>
-            <a class="launch-btn" href="" target="_blank">AMM / DEX</a>
+            <a class="launch-btn1" href="" target="_blank">AMM / DEX</a>
             <a class="launch-btn" href="" target="_blank">Tools</a>
         </nav>
     </div>
@@ -128,4 +128,39 @@ export default {
     }
 
 }
+       .launch-btn{
+        text-decoration: none;
+        border: none;
+        outline: none;
+        width: 159px;
+        height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(95.34deg, #09976E -21.44%, #084F65 108.23%);
+        border-radius: 8px;
+        font-weight: 700;
+        font-size: 18px;
+        color: #FFFFFF;
+        cursor: pointer;
+        
+        @media only screen and (max-width:980px){
+            width: 120px;
+            height: 36px;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        @media only screen and (max-width:780px){
+            width: 100px;
+            height: 26px;
+            font-size: 12px;
+        }
+        @media only screen and (max-width:580px){
+            // width 340
+            width: 50px;
+            height: 18px;
+            font-weight: 400;
+            font-size: 8px;
+        }
+    }
 </style>
