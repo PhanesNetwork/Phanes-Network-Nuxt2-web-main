@@ -20,9 +20,9 @@
       data(){
           return{
               cards:[
-                { img:'bag.png', title:'AMM / DEX', snippet:'Utilizing Balancer protocol framework, Phanes Exchange offers a customizable foundation of decentralized liquidity pools on opBNB network.',showAll:false},
-                { img:'cloud_db.png', title:'Phanes Index Portfolio', snippet:'Phanes Index Portfolio is designed to track performance of leading ecosystem assets, creating a strategic portfolio & investing management in the ecosystem.', showAll:false},
-                { img: 'locker.png', title:'Liquidity Lockers', snippet:"Our liquidity lockers enable developers or liquidity providers to store LP tokens in a smart contract for their own desired period thereby revoking the locker's permission from removing the LP tokens from a start date to the due date. This helps prevent rug pulls brought about by withdrawing liquidity and helps projects gain trust.",showAll:false},
+                { img:'bag.png', title:'Liquidity Poola', snippet:'Utilizing Balancer protocol framework, Phanes Exchange offers a customizable foundation of decentralized liquidity pools on opBNB network.',showAll:false},
+                { img:'cloud_db.png', title:'Phanes Index Portfolio', snippet:'Phanes Index Portfolio is designed to track performance of leading ecosystem assets, creating a strategic portfolio & investing management in the ecosystem, giving users diverse investment opportunities.', showAll:false},
+                { img: 'locker.png', title:'AMM / DEX', snippet:" With our decentralised automated market maker, experience a flawless revolutionary DeFi solution that redefines the way users engage with liquidity provision and swapping of digital assets. ",showAll:false},
                 
             ]
         }
