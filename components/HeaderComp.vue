@@ -17,11 +17,11 @@
                 </div>
                 <div class="col">
                     <div class="value">{{projects}}</div>
-                    <p class="title">Projects Locked</p>
+                    <p class="title">Listed Projects</p>
                 </div>
                 <div class="col">
                     <div class="value">$ {{getTotalLiquidity}}</div>
-                    <p class="title"> value of liquidity is locked.</p>
+                    <p class="title"> Total Pools.</p>
                 </div>
             </div>
 
