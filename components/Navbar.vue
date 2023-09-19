@@ -7,7 +7,7 @@
                 <li class="item" @click="scrollTo('governance')">Governance</li>
                 <li class="item" @click="scrollTo('faqs')">FAQs</li>
             </ul>
-            <a class="launch-btn" href="" target="_blank">Tools</a>
+            <a class="launch-btn" href="" target="_blank">Launch App</a>
         </nav>
     </div>
 </template>
