@@ -4,17 +4,18 @@
             <div class="content">
                 <img src="@/assets/tokenIcon.png" alt="" class="icon">
                 <h3 class="title">Phanes Token</h3>
-                <p class="snippet">Our ecosystem will be governed by PHANES token, with this token, the community makes decisions on activities in the  ecosystem.</p>
-                <button class="learnMore-btn"><a href="#" target="_blank">Buy Token</a></button>
+                <p class="snippet">Our ecosystem will be governed by $PNT token, with this token, the community makes decisions on activities within the  ecosystem.</p>
+                <button class="learnMore-btn"><a href="#" target="_blank">$PNT Token</a></button>
             </div>
         </div>
-        <div class="token rightToken">
+        <!--<div class="token rightToken">
             <div class="content">
                 <img src="@/assets/tokenIcon.png" alt="" class="icon">
                 <h3 class="title">Phanes Index Token</h3>
                 <p class="snippet">Phanes Index Token is a basket of multiple tokens on the Pulsechain Network, creating a diversified passive portfolio management strategies for its holders.</p>
                 <button class="learnMore-btn"><a href="https://docs.phanes.network/phaes-index-portfolio-token-metrics" target="_blank">Learn more</a></button>
             </div>
+        -->
         </div>
 
     </div>
