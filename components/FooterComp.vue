@@ -109,7 +109,7 @@
                       font-weight: 700;
                       font-size: 20px;
                       line-height: 22px;
-                      color: #FFFFFF;
+                      color: #a39b9b;
                       margin-bottom: 40px;
                       @media only screen and (max-width:720px){
                           margin-bottom: 20px;
