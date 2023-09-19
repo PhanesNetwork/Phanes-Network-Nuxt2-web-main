@@ -7,6 +7,7 @@
                 <p class="snippet">Phanes Network is an automated market maker, index protocol and trading marketplace for effortless liquidity creation and management. Bridging the gap between asset investment, trading experience and risk management.</p>
             </div>
         </div>
+        <!--
         <div class="bottom-content">
             <img class="bg" src="@/assets/hero-bottom.png" alt="">
             <div class="row">
@@ -22,7 +23,8 @@
                     <div class="value">$ {{getTotalLiquidity}}</div>
                     <p class="title"> Total Pools.</p>
                 </div>
-            </div>
+            </div> 
+        -->
 
         </div>
     </header>
