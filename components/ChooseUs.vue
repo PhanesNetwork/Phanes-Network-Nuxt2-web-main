@@ -16,11 +16,11 @@
           return{
               cards:[
                   {img:'choose1.png',title:'Diversify with ease.'},
-                  {img:'choose2.png',title:'Provide secured staking services for your project.'},
+                  {img:'choose2.png',title:'Smooth trading experience.'},
                   {img:'choose3.png',title:'Launch your project in a few steps.'},
                   {img:'choose4.png',title:'Manage your project liquidity easily.'},
-                  {img:'choose5.png',title:'Mint tokens in a few clicks.'},
-                  {img:'choose6.png',title:'Manage vesting schedules.'}
+                  {img:'choose5.png',title:'Participate & earn with our incentive program.'},
+                  {img:'choose6.png',title:'Decentralised and transparent.'}
               ]
           }
       }
