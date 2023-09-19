@@ -3,7 +3,7 @@
         <img src="@/assets/hero.png" alt="" class="hero">
         <div class="row">
             <div class="content">
-                <h1 class="heading">The Primary Hub For Liquidity Provision & Trading on opBNB Ecosystem</h1>
+                <h2 class="heading">The Primary Hub For Liquidity Provision & Trading on opBNB Ecosystem</h2>
                 <p class="snippet">Phanes Network is an automated market maker, index protocol and trading marketplace for effortless liquidity creation and management. Bridging the gap between asset investment, trading experience and risk management.</p>
             </div>
         </div>
