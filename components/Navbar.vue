@@ -5,7 +5,8 @@
             <ul class="items">
                 <li class="item" @click="scrollTo('phanesNetwork')">Phanes Network</li>
                 <li class="item" @click="scrollTo('governance')">Governance</li>
-                <li class="item" @click="scrollTo('faqs')">FAQs</li>
+                <li class="item" href="" target="_blank">Governance</li>
+                <li class="item" href="" target="_blank">Audits</li>
             </ul>
             <a class="launch-btn" href="" target="_blank">Launch App</a>
         </nav>
