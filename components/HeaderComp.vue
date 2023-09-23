@@ -155,8 +155,8 @@ export default {
         .heading{
             line-height: 93px;            
             @media only screen and (max-width:980px){
-                font-size: 35px;
-                line-height: 70px;
+                font-size:25px;
+                line-height:50px;
             }
             @media only screen and (max-width:780px){
                 line-height: 55px;
