@@ -15,9 +15,9 @@
       data(){
           return{
               cards:[
-                  {img:'choose1.png',title:'Diversify with ease.'},
+                  {img:'choose1.png',title:'Diversify and manage your asset with ease.'},
                   {img:'choose2.png',title:'Smooth trading experience.'},
-                  {img:'choose3.png',title:'Launch your project in a few steps.'},
+                  {img:'choose3.png',title:'Launch and manage your own crypto index in a few steps.'},
                   {img:'choose4.png',title:'Manage your project liquidity easily.'},
                   {img:'choose5.png',title:'Participate & earn with our incentive program.'},
                   {img:'choose6.png',title:'Decentralised and transparent.'}
