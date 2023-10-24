@@ -17,7 +17,7 @@
             <h3 class="title">Products</h3>
             <ul class="items">
                 <li class="item"><a href="https://app.phanes.network" target="_blank">AMM / DEX</a></li>
-                <li class="item"><a href="https://app.phanes.network/" target="_blank">Non-Custodian Wallet</a></li>
+                <li class="item"><a href="https://app.phanes.network/" target="_blank">Phanes Wallet</a></li>
                 <!--
                 <li class="item"><a href="https://phanes.network/multisender" target="_blank">Multisender</a></li>
                 <li class="item"><a href="https://phanes.network/minter" target="_blank">Minter</a></li> -->
