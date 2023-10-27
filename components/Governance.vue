@@ -5,6 +5,7 @@
       <p class="snippet">Phanes is a fully decentralized, community governed protocol by $PNT token holders.</p>
       <button class="governance-btn"><a href="https://guild.xyz/phanes-network" target="_blank">Governance</a></button>
     </div>
+  </div>
 <!--    
 <div class="faas-saas">
       <img src="@/assets/faasbg.png" class="bg" alt="">
