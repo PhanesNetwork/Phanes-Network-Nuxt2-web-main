@@ -21,8 +21,8 @@
           </div>
           <table cellspacing="15">
             <tbody>
-                <tr><td class="sub-title">Phanes</td> <td class="value">{{phane}}%</td></tr>
-                <tr><td class="sub-title">USDC</td> <td class="value">{{usdc}}%</td></tr>
+                <tr><td class="sub-title">PNT</td> <td class="value">{{phane}}%</td></tr>
+                <tr><td class="sub-title">USD</td> <td class="value">{{usdc}}%</td></tr>
             </tbody>
           </table>
       </div>
