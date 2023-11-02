@@ -3,7 +3,7 @@
         <img src="@/assets/hero.png" alt="" class="hero">
         <div class="row">
             <div class="content">
-                <h3 class="heading">A multichain liquidity management and trading plaform for meme projects</h3>
+                <h3 class="heading">A complete DeFi infrastructure for MemeFi</h3>
                 <p class="snippet">Phanes Network is a multichain automated market maker, meme index protocol and trading marketplace for effortless liquidity creation and management. Bridging the gap between meme asset investment, trading experience and protfolio management.</p>
             </div>
         </div>
