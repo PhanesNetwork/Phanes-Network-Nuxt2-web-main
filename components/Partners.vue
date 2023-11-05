@@ -64,12 +64,12 @@
   
           @keyframes moveSquare {
               0% {
-                  // -webkit-transform: translateX(0px) translateY(-40px) rotateX(0deg);
+                  -webkit-transform: translateX(0px) translateY(-40px) rotateX(0deg);
                   transform: translateX(-250px) translateY(-100px) rotateX(0deg);
                   opacity: .5;
               }
               0% {
-                  // -webkit-transform: translateX(0px) translateY(-40px) rotateX(0deg);
+                   -webkit-transform: translateX(0px) translateY(-40px) rotateX(0deg);
                   transform: translateX(-100px) translateY(-50px) rotateX(0deg);
                   opacity: .1;
               }
