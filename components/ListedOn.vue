@@ -1,7 +1,7 @@
 <template>
     <div class="row listedon">
       <h2 class="heading">Listed on</h2>
-      <p class="snippet">Phanes Network ecosystem’s tokens are available on the following exchanges</p>
+      <p class="snippet">Phanes Network ecosystem’s tokens are available on the following platforms</p>
       <div class="cards">
           <div class="card" v-for="i in 8" :key="i">
               <img src="@/assets/zapper.png" alt="" class="icon">
