@@ -4,7 +4,7 @@
         <div class="row">
             <div class="content">
                 <h3 class="heading">A complete DeFi infrastructure for MemeFi</h3>
-                <p class="snippet">Phanes Network is a multichain automated market maker, meme index protocol and trading marketplace for effortless liquidity creation and management. Bridging the gap between meme asset investment, trading experience and protfolio management.</p>
+                <p class="snippet">Phanes Network is a multichain automated market maker, meme index protocol and trading marketplace for effortless liquidity creation and management. Bridging the gap between meme asset investment, trading experience and portfolio management.</p>
             </div>
         </div>
         <!--
