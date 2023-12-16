@@ -20,7 +20,7 @@
       data(){
           return{
               cards:[
-                { img:'cloud_db.png', title:'Liquidity Pool Management', snippet:'Utilizing Balancer protocol framework, Phanes Exchange offers a customizable foundation of decentralized liquidity pools on all integrated networks..',showAll:false},
+                { img:'cloud_db.png', title:'Staking Yield', snippet:'Utilizing a NFT-backed staking framework, Phanes Network offers a flexible decentralized staking pools across multiple exchange, enabling users to earn reward.',showAll:false},
                 { img:'bag.png', title:'Phanes Index Portfolio', snippet:'Phanes Index Portfolio is designed to track performance of leading ecosystem assets, creating a strategic portfolio & investing management in the ecosystem, giving users diverse investment opportunities.', showAll:false},
                 { img: 'locker.png', title:'AMM / DEX & WALLET', snippet:" With our decentralised automated market maker, experience a flawless revolutionary DeFi solution that redefines the way users engage with liquidity provision and swapping of digital assets. For smooth asset control,  Phanes' final product will be a fiat-on-ramp integrated non-custodial wallet.",showAll:false},
             
