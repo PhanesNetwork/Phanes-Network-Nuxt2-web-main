@@ -3,8 +3,8 @@
         <img src="@/assets/hero.png" alt="" class="hero">
         <div class="row">
             <div class="content">
-                <h3 class="heading">A complete DeFi infrastructure for Degenverse</h3>
-                <p class="snippet">Phanes Network is a multichain automated market maker, meme index protocol and trading marketplace for effortless liquidity creation and management. Bridging the gap between meme asset investment, trading experience and portfolio management.</p>
+                <h3 class="heading">Multichain Staking Platform</h3>
+                <p class="snippet">Phanes Network is a multichain reward earning platform, offering diverse reward programs across multiple chains, using a single token reward mechanism.</p>
             </div>
         </div>
         <!--
