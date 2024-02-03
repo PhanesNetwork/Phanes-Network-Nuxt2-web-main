@@ -20,7 +20,7 @@
       data(){
           return{
               cards:[
-                { img:'cloud_db.png', title:'Staking Programme', snippet:'Utilizing a NFT-backed staking framework, Phanes Network offers a flexible decentralized staking pools across multiple chains, enabling creating an effortless reward accumulation.',showAll:false},
+                { img:'cloud_db.png', title:'Staking Programme', snippet:'Utilizing a NFT-backed staking framework, Phanes Network offers a flexible decentralized staking pools across multiple EVM chains, enabling creating an effortless reward accumulation.',showAll:false},
                 { img:'bag.png', title:'Phanes Index Portfolio', snippet:'Phanes Index Portfolio is designed to track performance of leading ecosystem assets, creating a strategic portfolio & investing management in the ecosystem, giving users diverse investment opportunities.', showAll:false},
                 { img: 'locker.png', title:'AMM / DEX & WALLET', snippet:"  For smooth asset control,  Phanes' final product will be a fiat-on-ramp integrated non-custodial wallet, integrating a decentralised multichain exchange, a flawless revolutionary DeFi solution that redefines the way users engage with digital assets management.",showAll:false},
             
