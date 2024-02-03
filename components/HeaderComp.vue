@@ -4,7 +4,7 @@
         <div class="row">
             <div class="content">
                 <h3 class="heading">Multichain Staking Platform</h3>
-                <p class="snippet">Phanes Network is a multichain reward earning platform, offering diverse reward programs across multiple chains, using a single token reward mechanism.</p>
+                <p class="snippet">Phanes Network is a multichain reward earning platform, offering diverse effortless reward programs across multiple chains, using a single token reward mechanism.</p>
             </div>
         </div>
         <!--
