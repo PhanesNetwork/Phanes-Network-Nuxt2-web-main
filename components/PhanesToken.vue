@@ -5,7 +5,7 @@
                 <img src="@/assets/tokenIcon.png" alt="" class="icon">
                 <h3 class="title">Phanes Token</h3>
                 <p class="snippet">Our ecosystem will be governed by $PNT token, with this token, the community makes decisions on activities within the  ecosystem.</p>
-                <button class="learnMore-btn"><a href="#" target="_blank">$PNT Token</a></button>
+                <button class="learnMore-btn"><a href="https://etherscan.io/token/0x5db21938dfec9aa2c3bc7cd00931c51d3d8f5ab6#code" target="_blank">$PNT Token</a></button>
             </div>
         </div>
         <!--<div class="token rightToken">
